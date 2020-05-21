@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="DELETE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 09:39:36</sys_created_on>
+        <sys_id>9dae2bd32fb8901095fdd6ab2799b6e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_9dae2bd32fb8901095fdd6ab2799b6e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 09:39:36</sys_updated_on>
+        <text>NeedIt</text>
+        <variables/>
+    </sys_sg_applet_launcher_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a469be99dbefdf08b2e05d00cf9619c8</instance_id>
+        <instance_name>dev67279</instance_name>
+        <name>sys_sg_applet_launcher_header_9dae2bd32fb8901095fdd6ab2799b6e0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header"><sys_sg_applet_launcher_header action="INSERT_OR_UPDATE"><sys_class_name>sys_sg_applet_launcher_header</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-21 09:39:36</sys_created_on><sys_id>9dae2bd32fb8901095fdd6ab2799b6e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_applet_launcher_header_9dae2bd32fb8901095fdd6ab2799b6e0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-21 09:39:36</sys_updated_on><text>NeedIt</text><variables/></sys_sg_applet_launcher_header></record_update>]]></payload>
+        <payload_hash>-803928454</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>1621197a2fbc101095fdd6ab2799b611</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 09:39:36</sys_created_on>
+        <sys_id>95ae2bd32fb8901095fdd6ab2799b6e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172369a3b810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 09:39:36</sys_updated_on>
+        <type>Header Title</type>
+        <update_guid>ddae2bd35bb89010d4aae71c62019ee1</update_guid>
+        <update_guid_history>ddae2bd35bb89010d4aae71c62019ee1:-803928454</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 09:40:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_header">sys_sg_applet_launcher_header</sys_db_object>
+        <sys_id>b342e692a83f4828b1b2122ceee24e40</sys_id>
+        <sys_metadata>9dae2bd32fb8901095fdd6ab2799b6e0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_header_9dae2bd32fb8901095fdd6ab2799b6e0</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_header_9dae2bd32fb8901095fdd6ab2799b6e0">95ae2bd32fb8901095fdd6ab2799b6e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 09:40:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

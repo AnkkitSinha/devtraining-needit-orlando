@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="NeedIt">000e19722ffc101095fdd6ab2799b66a</applet_launcher>
+        <order>10</order>
+        <section display_value="my NeedIt">c72ed5f22ffc101095fdd6ab2799b696</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-19 09:51:26</sys_created_on>
+        <sys_id>8b2ed5f22ffc101095fdd6ab2799b699</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_8b2ed5f22ffc101095fdd6ab2799b699</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 09:39:35</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>
